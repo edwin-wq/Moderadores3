@@ -7,7 +7,7 @@
 
     android:background="@drawable/fondoazul_01"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".Login_Activity">
 
 
     <TextView
